@@ -1,0 +1,17 @@
+{
+    "name": "forrestedw/mailtracker",
+    "description": "Simple Laravel Mail testing",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "forrestedw",
+            "email": "forrestedw@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Forrestedw\\MailTracker\\": "src/"
+        }
+    }
+}
