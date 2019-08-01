@@ -9,7 +9,7 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
+    "autoload-dev": {
         "psr-4": {
             "Forrestedw\\MailTracker\\": "src/"
         }
